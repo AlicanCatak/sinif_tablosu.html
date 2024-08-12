@@ -1,0 +1,18 @@
+table {
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #000;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #d23722;
+}
+
+td {
+  background-color: #dad4b5;
+}
