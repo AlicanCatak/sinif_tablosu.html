@@ -1,1 +1,1 @@
-Sınıf Tablosu
+<h1>SINIF TABLOSU</h1>
